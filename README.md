@@ -1,2 +1,2 @@
-# dio-github
- Repositório aula de Github da DIO
+# Estudos DIO
+ Repositório para organização dos estudos na plataforma DIO
